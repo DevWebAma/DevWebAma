@@ -1,4 +1,4 @@
-# 👋 Salut, je m'appel Yaya
+# 👋 Salut, je m'appelle Yaya
 - 💻 je suis étudiant en développement web front-end à l'EAFC Fléron-Charlemagne
 - 👀 je suis passionné par le developpement web, et particulièrement par **JavaScript**
 - 🚀 je suis à la recherche d'un **stage de développeur web front-end**
